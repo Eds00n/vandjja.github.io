@@ -1,0 +1,125 @@
+body {
+    background: #7a7979;
+    font-family: 'Raleway', sans-serif;
+    color: #e3d47c;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://images2.alphacoders.com/881/881377.jpg);}
+  
+  .container {
+    width: 900px;
+    margin: 0 auto;}
+  
+  .profile {
+    text-align: center;
+    margin-bottom: 40px;}
+  
+  .foto-principal {
+    width: 200px;}
+  
+  h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+    color: #e3d47c;}
+  
+  h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: #e3d47c;
+    font-weight: 100;
+    letter-spacing: -1px;}
+  
+  p {
+    line-height: 25px;
+    margin-top: 20px;
+    color: #e3d47c;}
+  
+  .social-links {
+    text-decoration: none;}
+  
+  .social-icons {
+    width: 20px;}
+  
+  .contato{
+    color: #e3d47c;
+    text-decoration: none;
+    margin: 10px;
+    border: 2px solid #e3d47c;
+    border-radius:  10%;
+    padding: 10px 25px;
+    transition: 500ms;}
+
+   .contato:hover{
+    font-size: 25px}
+
+   .con{
+    text-align: center;}
+
+   .linkk{
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-top: 5%;}
+
+   .ins{
+    color: #e3d47c;
+    text-decoration: none;
+    border: 2px solid #e3d47c;
+    padding: 10px 25px;
+    border-radius: 15px;
+    transition: 500ms;
+    font-size: 25px;}
+
+   .ins:hover{
+    font-size: 30px;}
+
+   .foto{
+    width: 200px;
+    text-align: center;}
+
+   .fotoo{
+    text-align: center;
+    margin-top: 5%;}
+
+   .voltar{
+    margin-top: 2%;
+    margin-left: 2%;}
+   
+   .voltaar{
+    text-decoration: none;
+    border: 2px solid #e3d47c;
+    padding: 15px;
+    border-radius: 13px;
+    color: #e3d47c;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:11px;
+    transition: 500ms;}
+
+   .voltaar:hover{
+    font-size: 15px;}
+
+   .trabalhos{
+    margin-top: 5%;
+    text-align: center;}
+
+   .tb{
+    width: 400px;
+    border-radius: 10px;
+    border:2px solid#e3d47c;
+    padding: 10px;
+    transition: 500ms;}
+
+
+   .td{
+    width: 301px;
+    border-radius: 10px;
+    border:2px solid#e3d47c;
+    padding: 10px;
+    transition: 500ms;
+    margin-left: 11%;}
+
+   .especializa{
+    text-align: center;}
